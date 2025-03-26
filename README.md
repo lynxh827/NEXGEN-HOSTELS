@@ -1,7 +1,7 @@
 # NextGen Hotel Hub
 
 ## Project Information
-*URL*: http://nexgen-hostel-hub-main.vercel.app
+*URL*: http://nexgen-hostels.vercel.app
 
 ## Getting Started
 
